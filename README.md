@@ -7,12 +7,14 @@ Este proyecto implementa un intérprete capaz de procesar declaraciones, asignac
 ### 1. Clonar el repositorio
 Para obtener una copia local del proyecto, ejecutá:
 ```
-git clone https://github.com/mbrachetta/50268.git
+git clone https://github.com/juanigarciadev/antlr-calculator
 ```
 
 ### 2. Navegar al directorio
 Accedé a la carpeta donde se encuentran los archivos fuente:
+```
 cd antlr-calculator/calculator
+```
 
 ### 3. Instalar las dependencias
 Descargá los paquetes necesarios para que el proyecto funcione:
@@ -25,9 +27,11 @@ npm install
 ### 1. Preparar la entrada
 El analizador lee el código fuente desde el archivo input.js. Aseguráte de que este archivo exista en la raíz del proyecto con el contenido que deseás testear. Ejemplo:
 
+```
 let X = 10;
 var Y = 20;
 Z = 2 * X + Y;
+```
 
 ### 2. Ejecutar el proyecto
 Para iniciar el proceso de análisis léxico, sintáctico y la ejecución semántica, ejecutá:
