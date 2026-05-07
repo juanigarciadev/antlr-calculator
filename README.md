@@ -43,7 +43,7 @@ El programa genera automáticamente los siguientes resultados:
 2. Validación Sintáctica: Confirmación de que el código respecta la gramática definida.
 3. Estado de Memoria: Una tabla con los valores finales asignados a cada variable tras la ejecución del Visitor.
 
-![Resultados consola](./resultados.png)
+![Resultados consola](./resultado.png)
 
 ### Árbol de Derivación (Punto C)
 El siguiente gráfico representa la estructura jerárquica generada para el código de prueba:
