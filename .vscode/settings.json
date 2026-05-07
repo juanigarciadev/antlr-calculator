@@ -1,0 +1,9 @@
+{
+    "antlr4.generation": {
+        "language": "JavaScript",
+        "outputDir": "generated",
+        "visitor": true,
+        "listener": true
+    },
+    "antlr4.jarPath": "antlr-4.13.2-complete.jar"
+}
